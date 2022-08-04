@@ -1,0 +1,47 @@
+*{ 
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+   }
+.mh {
+    width: 375px;
+    min-height: 667px;
+}
+.mhIphone {
+    
+    background-image: url("https://scontent.fhan5-6.fna.fbcdn.net/v/t39.30808-6/292227743_466082198852495_1969807381557825190_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=d_ZFXT-bc48AX-3w8kz&_nc_ht=scontent.fhan5-6.fna&oh=00_AT8cBegI5LETxp8u8tUMEYZPYEusL6NuErVmNakQJp7QXw&oe=62EDDB5E");
+}
+.toast {
+    width: 375px !important;
+    height: 100px !important;
+}
+.top {
+    position: fixed;
+    top: 0;
+    background-color: rgba(255, 192, 203, 0.521)  !important;
+}
+.img-gift{
+    max-width: 50px;
+    background-color: transparent;
+}
+.text {
+    color: red;
+    font-size: 20px;
+    font-weight:  600;
+}
+.heart{
+    text-align: center;
+    color: red;
+    font-size: 50px;
+}
+.cl-red {
+    color: red !important;
+}
+.back {
+    position: fixed;
+    top: 10px;
+}
+.card{
+    width: 330px !important;
+}
